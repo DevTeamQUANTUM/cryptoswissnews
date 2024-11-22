@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://DevTeamQUANTUM.github.io/cryptoswissnews/sitemap.xml
+Sitemap: https://cryptoswiss.news/sitemap.xml
