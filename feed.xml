@@ -3,7 +3,7 @@
     <title>Crypto News 🇨🇭</title>
     <link href="https://cryptoswiss.news/feed.xml" rel="self" />
     <link href="https://cryptoswiss.news" />
-    <updated>2024-11-22T13:45:55+01:00</updated>
+    <updated>2024-11-22T17:20:52+01:00</updated>
     <author>
         <name>Crypto Swiss Team</name>
     </author>
@@ -16,6 +16,10 @@
         </author>
         <link href="https://cryptoswiss.news/switzerland-adopts-a-tech-neutral-approach-to-ai-regulation.html"/>
         <id>https://cryptoswiss.news/switzerland-adopts-a-tech-neutral-approach-to-ai-regulation.html</id>
+            <category term="Zurich"/>
+            <category term="Startup"/>
+            <category term="Regulation"/>
+            <category term="AI"/>
 
         <updated>2024-11-22T13:45:55+01:00</updated>
             <summary>
@@ -69,18 +73,16 @@
         </author>
         <link href="https://cryptoswiss.news/one-in-nine-swiss-residents-invest-in-cryptocurrencies-curiosity-over-profit-4.html"/>
         <id>https://cryptoswiss.news/one-in-nine-swiss-residents-invest-in-cryptocurrencies-curiosity-over-profit-4.html</id>
-        <media:content url="https://cryptoswiss.news/media/posts/4/shutterstock_1708749826_small.jpg.webp" medium="image" />
+            <category term="Decentralization"/>
 
         <updated>2024-11-21T15:30:39+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://cryptoswiss.news/media/posts/4/shutterstock_1708749826_small.jpg.webp" alt="" />
                     The blockchain, crypto, and finance industries came together in January 2024 for the inaugural CRYPTO2030 event in Davos, Switzerland. Against the scenic backdrop of the Alps, this Web3-focused gathering brought industry leaders, experts, and visionaries to discuss the future of decentralized technology and its transformative&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://cryptoswiss.news/media/posts/4/shutterstock_1708749826_small.jpg.webp" class="type:primaryImage" alt="" /></p>
                 <p>The blockchain, crypto, and finance industries came together in January 2024 for the inaugural <strong>CRYPTO2030</strong> event in Davos, Switzerland. Against the scenic backdrop of the Alps, this Web3-focused gathering brought industry leaders, experts, and visionaries to discuss the future of decentralized technology and its transformative potential.</p>
 <h3><strong>A Community-Driven Web3 Movement</strong></h3>
 <p>Web3 thrives on collaboration and shared innovation, making gatherings like CRYPTO2030 essential for shaping the industry. Positioned as a key event in Europe, CRYPTO2030 leveraged interactive formats, including thematic dialogues, roundtables, and networking sessions, to foster knowledge exchange and strategic partnerships.</p>
@@ -108,18 +110,19 @@
         </author>
         <link href="https://cryptoswiss.news/one-in-nine-swiss-residents-invest-in-cryptocurrencies-curiosity-over-profit-3.html"/>
         <id>https://cryptoswiss.news/one-in-nine-swiss-residents-invest-in-cryptocurrencies-curiosity-over-profit-3.html</id>
-        <media:content url="https://cryptoswiss.news/media/posts/3/shutterstock_1708749826_small.jpg.webp" medium="image" />
+            <category term="Startup"/>
+            <category term="Regulation"/>
+            <category term="Decentralization"/>
+            <category term="DeFi"/>
 
         <updated>2024-11-21T15:30:33+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://cryptoswiss.news/media/posts/3/shutterstock_1708749826_small.jpg.webp" alt="" />
                     The Swiss Financial Market Supervisory Authority (FINMA) has announced an extension of its Anti-Money Laundering (AML) ordinance, reinforcing identity verification requirements for certain cryptocurrency transactions. In a notice published on Nov. 2, FINMA confirmed its commitment to enforcing a transaction threshold of 1,000 Swiss francs&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://cryptoswiss.news/media/posts/3/shutterstock_1708749826_small.jpg.webp" class="type:primaryImage" alt="" /></p>
                 <p>The Swiss Financial Market Supervisory Authority (FINMA) has announced an extension of its Anti-Money Laundering (AML) ordinance, reinforcing identity verification requirements for certain cryptocurrency transactions.</p>
 <p>In a notice published on Nov. 2, FINMA confirmed its commitment to enforcing a transaction threshold of 1,000 Swiss francs (approximately $997). The rule applies to transactions involving virtual currencies exchanged for cash or other anonymous payment methods. The updated regulation aligns with Switzerland’s broader Anti-Money Laundering Act and its government’s AML Ordinance.</p>
 <h3><strong>Strengthening AML Measures</strong></h3>
@@ -141,18 +144,18 @@
         </author>
         <link href="https://cryptoswiss.news/one-in-nine-swiss-residents-invest-in-cryptocurrencies-curiosity-over-profit-2.html"/>
         <id>https://cryptoswiss.news/one-in-nine-swiss-residents-invest-in-cryptocurrencies-curiosity-over-profit-2.html</id>
-        <media:content url="https://cryptoswiss.news/media/posts/2/shutterstock_1708749826_small.jpg.webp" medium="image" />
+            <category term="Tokens"/>
+            <category term="Decentralization"/>
+            <category term="DeFi"/>
 
         <updated>2024-11-21T15:30:26+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://cryptoswiss.news/media/posts/2/shutterstock_1708749826_small.jpg.webp" alt="" />
                     Global fast-food giant McDonald’s takes a bold step into the crypto space, accepting Bitcoin and Tether as payment in the Swiss city of Lugano. McDonald’s, a globally recognized name in fast food, has started accepting Bitcoin (BTC) and Tether (USDT) for payments in Lugano, Switzerland.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://cryptoswiss.news/media/posts/2/shutterstock_1708749826_small.jpg.webp" class="type:primaryImage" alt="" /></p>
                 <p><em>Global fast-food giant McDonald’s takes a bold step into the crypto space, accepting Bitcoin and Tether as payment in the Swiss city of Lugano.</em></p>
 <p>McDonald’s, a globally recognized name in fast food, has started accepting Bitcoin (BTC) and Tether (USDT) for payments in Lugano, Switzerland. This initiative positions the 63,000-resident city, nestled in the Italian-speaking region of the country, as a burgeoning hub for cryptocurrency adoption in Western Europe.</p>
 <p>A video shared by Bitcoin Magazine on Oct. 3 showcased the seamless process of ordering food via McDonald’s digital kiosk and completing the payment using a mobile app. Both the Bitcoin and Tether logos were prominently displayed on the payment terminal, reflecting Lugano's growing crypto-friendly environment.</p>
@@ -181,18 +184,19 @@
         </author>
         <link href="https://cryptoswiss.news/one-in-nine-swiss-residents-invest-in-cryptocurrencies-curiosity-over-profit.html"/>
         <id>https://cryptoswiss.news/one-in-nine-swiss-residents-invest-in-cryptocurrencies-curiosity-over-profit.html</id>
-        <media:content url="https://cryptoswiss.news/media/posts/1/shutterstock_1708749826_small.jpg.webp" medium="image" />
+            <category term="Wallet"/>
+            <category term="Tokens"/>
+            <category term="DeFi"/>
+            <category term="Cryptocurrency"/>
 
         <updated>2024-11-21T15:28:05+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://cryptoswiss.news/media/posts/1/shutterstock_1708749826_small.jpg.webp" alt="" />
                     A growing number of Swiss residents are dipping their toes into the world of cryptocurrencies, with one in nine now holding digital assets like Bitcoin and Ether. However, curiosity—not financial gain—is the main driver behind this trend, according to a recent study by the Lucerne&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://cryptoswiss.news/media/posts/1/shutterstock_1708749826_small.jpg.webp" class="type:primaryImage" alt="" /></p>
                 <p>A growing number of Swiss residents are dipping their toes into the world of cryptocurrencies, with one in nine now holding digital assets like Bitcoin and Ether. However, curiosity—not financial gain—is the main driver behind this trend, according to a recent study by the Lucerne University of Applied Sciences and Arts conducted on behalf of Postfinance.</p>
 <h3><strong>Low but Emerging Interest in Crypto Assets</strong></h3>
 <p>Despite the notable figure of crypto adopters, interest in cryptocurrencies remains moderate across the Swiss population. The study revealed that only 8% of respondents are “rather strongly” or “very strongly” interested in digital assets. Meanwhile, the vast majority—approximately 80%—have never invested in cryptocurrencies.</p>
