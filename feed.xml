@@ -3,7 +3,7 @@
     <title>Crypto News 🇨🇭</title>
     <link href="https://cryptoswiss.news/feed.xml" rel="self" />
     <link href="https://cryptoswiss.news" />
-    <updated>2024-11-22T17:33:42+01:00</updated>
+    <updated>2024-11-22T17:40:57+01:00</updated>
     <author>
         <name>Crypto Swiss Team</name>
     </author>
@@ -193,6 +193,7 @@
         </author>
         <link href="https://cryptoswiss.news/one-in-nine-swiss-residents-invest-in-cryptocurrencies-curiosity-over-profit.html"/>
         <id>https://cryptoswiss.news/one-in-nine-swiss-residents-invest-in-cryptocurrencies-curiosity-over-profit.html</id>
+        <media:content url="https://cryptoswiss.news/media/posts/1/DALLE-2024-04-22-07.05.34-A-digital-representation-of-a-Bitcoin-coin-in-the-foreground-with-the-Swiss-flag-waving-in-the-background.-The-Bitcoin-should-appear-shiny-and-metalli.webp.jpeg" medium="image" />
             <category term="Wallet"/>
             <category term="Tokens"/>
             <category term="DeFi"/>
@@ -201,11 +202,13 @@
         <updated>2024-11-21T15:28:05+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://cryptoswiss.news/media/posts/1/DALLE-2024-04-22-07.05.34-A-digital-representation-of-a-Bitcoin-coin-in-the-foreground-with-the-Swiss-flag-waving-in-the-background.-The-Bitcoin-should-appear-shiny-and-metalli.webp.jpeg" alt="" />
                     A growing number of Swiss residents are dipping their toes into the world of cryptocurrencies, with one in nine now holding digital assets like Bitcoin and Ether. However, curiosity—not financial gain—is the main driver behind this trend, according to a recent study by the Lucerne&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://cryptoswiss.news/media/posts/1/DALLE-2024-04-22-07.05.34-A-digital-representation-of-a-Bitcoin-coin-in-the-foreground-with-the-Swiss-flag-waving-in-the-background.-The-Bitcoin-should-appear-shiny-and-metalli.webp.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>A growing number of Swiss residents are dipping their toes into the world of cryptocurrencies, with one in nine now holding digital assets like Bitcoin and Ether. However, curiosity—not financial gain—is the main driver behind this trend, according to a recent study by the Lucerne University of Applied Sciences and Arts conducted on behalf of Postfinance.</p>
 <h3><strong>Low but Emerging Interest in Crypto Assets</strong></h3>
 <p>Despite the notable figure of crypto adopters, interest in cryptocurrencies remains moderate across the Swiss population. The study revealed that only 8% of respondents are “rather strongly” or “very strongly” interested in digital assets. Meanwhile, the vast majority—approximately 80%—have never invested in cryptocurrencies.</p>
