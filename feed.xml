@@ -3,7 +3,7 @@
     <title>Crypto News 🇨🇭</title>
     <link href="https://cryptoswiss.news/feed.xml" rel="self" />
     <link href="https://cryptoswiss.news" />
-    <updated>2024-11-22T17:40:57+01:00</updated>
+    <updated>2024-11-22T17:53:01+01:00</updated>
     <author>
         <name>Crypto Swiss Team</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://cryptoswiss.news/switzerland-adopts-a-tech-neutral-approach-to-ai-regulation.html"/>
         <id>https://cryptoswiss.news/switzerland-adopts-a-tech-neutral-approach-to-ai-regulation.html</id>
+        <media:content url="https://cryptoswiss.news/media/posts/5/e05128ef0eb860f70f9dbaf912a43725-gettyimages-1229592711-data.jpg" medium="image" />
             <category term="Zurich"/>
             <category term="Startup"/>
             <category term="Regulation"/>
@@ -24,11 +25,13 @@
         <updated>2024-11-22T13:45:55+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://cryptoswiss.news/media/posts/5/e05128ef0eb860f70f9dbaf912a43725-gettyimages-1229592711-data.jpg" alt="" />
                     As nations around the world scramble to regulate artificial intelligence (AI), Switzerland is taking a distinct approach: a “tech-neutral” stance that prioritizes sector-based use cases over blanket regulations. While remaining outside the European Union (EU), Switzerland continues to shape its AI policies with a focus&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://cryptoswiss.news/media/posts/5/e05128ef0eb860f70f9dbaf912a43725-gettyimages-1229592711-data.jpg" class="type:primaryImage" alt="" /></p>
                 <p>As nations around the world scramble to regulate artificial intelligence (AI), Switzerland is taking a distinct approach: a <strong>“tech-neutral” stance</strong> that prioritizes sector-based use cases over blanket regulations. While remaining outside the European Union (EU), Switzerland continues to shape its AI policies with a focus on fostering innovation and influencing global discussions on AI governance.</p>
 <h3><strong>Switzerland’s Unique Position in AI Policy</strong></h3>
 <p>Switzerland, renowned for its technological prowess, is no stranger to cutting-edge advancements. It hosts <strong>Crypto Valley</strong>, a global hub for blockchain innovation, and <strong>ETH Zurich</strong>, one of the world’s leading AI research institutions. However, unlike its EU neighbors, Switzerland is not bound by the recently implemented EU AI Act, giving it the flexibility to carve out its own regulatory path.</p>
