@@ -3,7 +3,7 @@
     <title>Crypto News 🇨🇭</title>
     <link href="https://cryptoswiss.news/feed.xml" rel="self" />
     <link href="https://cryptoswiss.news" />
-    <updated>2024-11-22T17:20:52+01:00</updated>
+    <updated>2024-11-22T17:24:51+01:00</updated>
     <author>
         <name>Crypto Swiss Team</name>
     </author>
@@ -144,6 +144,7 @@
         </author>
         <link href="https://cryptoswiss.news/one-in-nine-swiss-residents-invest-in-cryptocurrencies-curiosity-over-profit-2.html"/>
         <id>https://cryptoswiss.news/one-in-nine-swiss-residents-invest-in-cryptocurrencies-curiosity-over-profit-2.html</id>
+        <media:content url="https://cryptoswiss.news/media/posts/2/Magnifique_randonnee_sur_les_hauts_du_lac_de_Lugano_44141516285.jpg" medium="image" />
             <category term="Tokens"/>
             <category term="Decentralization"/>
             <category term="DeFi"/>
@@ -151,11 +152,13 @@
         <updated>2024-11-21T15:30:26+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://cryptoswiss.news/media/posts/2/Magnifique_randonnee_sur_les_hauts_du_lac_de_Lugano_44141516285.jpg" alt="" />
                     Global fast-food giant McDonald’s takes a bold step into the crypto space, accepting Bitcoin and Tether as payment in the Swiss city of Lugano. McDonald’s, a globally recognized name in fast food, has started accepting Bitcoin (BTC) and Tether (USDT) for payments in Lugano, Switzerland.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://cryptoswiss.news/media/posts/2/Magnifique_randonnee_sur_les_hauts_du_lac_de_Lugano_44141516285.jpg" class="type:primaryImage" alt="" /></p>
                 <p><em>Global fast-food giant McDonald’s takes a bold step into the crypto space, accepting Bitcoin and Tether as payment in the Swiss city of Lugano.</em></p>
 <p>McDonald’s, a globally recognized name in fast food, has started accepting Bitcoin (BTC) and Tether (USDT) for payments in Lugano, Switzerland. This initiative positions the 63,000-resident city, nestled in the Italian-speaking region of the country, as a burgeoning hub for cryptocurrency adoption in Western Europe.</p>
 <p>A video shared by Bitcoin Magazine on Oct. 3 showcased the seamless process of ordering food via McDonald’s digital kiosk and completing the payment using a mobile app. Both the Bitcoin and Tether logos were prominently displayed on the payment terminal, reflecting Lugano's growing crypto-friendly environment.</p>
